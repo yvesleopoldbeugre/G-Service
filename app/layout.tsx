@@ -42,14 +42,14 @@ export default function RootLayout({
 
       <meta property="og:title" content="Trouvez tout ce que vous cherchez" />
       <meta property="og:description" content="Découvrez tout ce que vous cherchez, en un seul endroit." />
-      <meta property="og:image" content="https://g-service-five.vercel.app/preview.jpg" />
+      <meta property="og:image" content="https://g-service-five.vercel.app/preview.png" />
       <meta property="og:url" content="https://g-service-five.vercel.app" />
       <meta property="og:type" content="website" />
 
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Trouvez tout ce que vous cherchez" />
       <meta name="twitter:description" content="Découvrez tout ce que vous cherchez, en un seul endroit." />
-      <meta name="twitter:image" content="https://g-service-five.vercel.app/images/preview.jpg" />
+      <meta name="twitter:image" content="https://g-service-five.vercel.app/images/preview.png" />
 
       <body className={`font-sans antialiased`}>
         {children}
