@@ -49,7 +49,7 @@ export default function RootLayout({
       <meta name="twitter:card" content="summary_large_image" />
       <meta name="twitter:title" content="Trouvez tout ce que vous cherchez" />
       <meta name="twitter:description" content="Découvrez tout ce que vous cherchez, en un seul endroit." />
-      <meta name="twitter:image" content="https://g-service-five.vercel.app/images/preview.png" />
+      <meta name="twitter:image" content="https://g-service-five.vercel.app/preview.png" />
 
       <body className={`font-sans antialiased`}>
         {children}
